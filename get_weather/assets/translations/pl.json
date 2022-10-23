@@ -1,0 +1,37 @@
+{
+  "common": {
+    "error_occurs": "Wystąpił błąd",
+    "server_error": "Nie możemy nawiązać połączenia z serwerem.",
+    "network_error": "Brak połączenia z internetem. Sprawdź swoje połączenie i spróbuj ponownie.",
+    "generic_error_message": "Wystąpił błąd. Spróbuj ponownie.",
+    "city_not_found_error_message": "Nie znaleziono miasta o takiej nazwie",
+    "close": "Zamknij",
+    "yes": "TAK",
+    "no": "NIE",
+    "info": "Komunikat",
+    "unnamed": "Brak nazwy",
+    "celsius": "°C"
+  },
+  "home_page": {
+    "title": "Pogoda dla Twoich miast",
+    "empty_list": "Brak dodanych miast, kliknij + aby dodać nowe",
+    "edit": "Edytuj",
+    "remove": "Usuń",
+    "remove_dialog_title": "Czy na pewno usunąć?",
+    "show_only_favorites": "Pokaż tylko ulubione"
+  },
+  "city_form_page": {
+    "add": "Dodaj miasto",
+    "edit": "Edytuj miasto",
+    "favorite": "Ulubione",
+    "save": "Zapisz"
+  },
+  "city_details_page": {
+    "temp": "Temperatura:",
+    "windSpeed": "Prędkość wiatru:",
+    "pressure": "Ciśnienie:",
+    "humidity": "Wilgotność:",
+    "tempFeelsLike": "Temperatura odczuwalna:",
+    "date": "Data:"
+  }
+}

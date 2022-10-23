@@ -1,0 +1,17 @@
+{
+  "common": {
+    "error_occurs": "Wystąpił błąd",
+    "server_error": "Nie możemy nawiązać połączenia z serwerem.",
+    "network_error": "Brak połączenia z internetem. Sprawdź swoje połączenie i spróbuj ponownie.",
+    "generic_error_message": "Wystąpił błąd. Spróbuj ponownie.",
+    "close": "Zamknij",
+    "yes": "Tak",
+    "no": "Nie",
+    "info": "Komunikat"
+  },
+  "movie_details_page": {
+    "budget": "Budżet",
+    "revenue": "Przychód",
+    "should_i_watch": "Czy powinienem obejrzeć go dzisiaj?"
+  }
+}

@@ -1,0 +1,37 @@
+import 'package:easy_localization/easy_localization.dart';
+import 'package:fimber/fimber.dart';
+import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
+import 'package:get_weather/app_initializers/app_initializer.dart';
+import 'package:get_weather/get_weather_app.dart';
+import 'package:get_weather/injections/bloc_factory.dart';
+import 'package:get_weather/injections/modules.dart';
+import 'package:get_weather/style/typography.dart';
+import 'package:provider/provider.dart';
+
+Future<void> main() async {
+  Fimber.plantTree(DebugTree());
+  WidgetsFlutterBinding.ensureInitialized();
+  await EasyLocalization.ensureInitialized();
+  final GetIt injector = GetIt.instance;
+  registerModules(injector);
+  final AppInitializer initializer = injector.get();
+  await initializer.init();
+
+  runApp(
+    MultiProvider(
+      providers: [
+        Provider<AppTypography>.value(value: AppTypography.getWeather),
+        Provider<BlocFactory>(
+          create: (context) => BlocFactory(injector: injector),
+        ),
+      ],
+      child: EasyLocalization(
+        supportedLocales: const [Locale('pl')],
+        path: 'assets/translations',
+        fallbackLocale: const Locale('pl'),
+        child: const GetWeatherApp(),
+      ),
+    ),
+  );
+}

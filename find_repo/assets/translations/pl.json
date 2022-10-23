@@ -1,0 +1,24 @@
+{
+  "common": {
+    "error_occurs": "Wystąpił błąd",
+    "server_error": "Nie możemy nawiązać połączenia z serwerem.",
+    "network_error": "Brak połączenia z internetem. Sprawdź swoje połączenie i spróbuj ponownie.",
+    "generic_error_message": "Wystąpił błąd. Spróbuj ponownie.",
+    "close": "Zamknij",
+    "yes": "TAK",
+    "no": "NIE",
+    "info": "Komunikat",
+    "unnamed": "Brak nazwy"
+  },
+  "home_page": {
+    "title": "Znajdź repozytorium",
+    "search_hint": "Szukaj repozytorium",
+    "search": "Szukaj",
+    "empty_list": "Nie znaleziono repozytoriów"
+  },
+  "repo_details_page": {
+    "title": "Szczegóły repozytorium",
+    "author": "Autor",
+    "issues_amount": "Ilość issue:"
+  }
+}

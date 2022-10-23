@@ -1,0 +1,30 @@
+{
+  "common": {
+    "error_occurs": "Wystąpił błąd",
+    "server_error": "Nie możemy nawiązać połączenia z serwerem.",
+    "network_error": "Brak połączenia z internetem. Sprawdź swoje połączenie i spróbuj ponownie.",
+    "generic_error_message": "Wystąpił błąd. Spróbuj ponownie.",
+    "close": "Zamknij",
+    "yes": "TAK",
+    "no": "NIE",
+    "info": "Komunikat"
+  },
+  "home_page": {
+    "title": "Lista przesyłek",
+    "service": "Przewoźnik",
+    "parcel_no": "Numer przesyłki"
+  },
+  "parcel_details": {
+    "title": "Szczegóły przesyłki",
+    "service": "Przewoźnik",
+    "parcel_no": "Numer przesyłki",
+    "datetime_send": "Data wysyłki",
+    "sender_data": "Dane wysyłającego",
+    "receiver_data": "Dane odbiorcy",
+    "parcel_data": "Wymiary przesyłki",
+    "width": "Szerokość:",
+    "height": "Wysokość:",
+    "depth": "Głębokość:",
+    "weight": "Waga:"
+  }
+}
