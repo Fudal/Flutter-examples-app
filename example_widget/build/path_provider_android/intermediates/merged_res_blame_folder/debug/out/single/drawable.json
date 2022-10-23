@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

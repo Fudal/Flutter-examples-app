@@ -1,0 +1,37 @@
+{
+  "common": {
+    "empty_areas": "Brak przestrzeni do wyświetlenia"
+  },
+  "area": {
+    "title": "Wspólna przestrzeń",
+    "contact": "KONTAKT",
+    "room": "POKÓJ",
+    "device": "URZĄDZENIE",
+    "notes": "NOTATEK"
+  },
+  "common_device": {
+    "edit": "EDYTUJ",
+    "delete": "USUŃ",
+    "unpair": "USUŃ PAROWANIE",
+    "identify": "IDENTYFIKUJ",
+    "ping": "PING",
+    "sensitivity": "CZUŁOŚĆ",
+    "test_siren": "TESTOWY SYGNAŁ DŹWIĘKOWY",
+    "address": "ADRES",
+    "device_id": "ID URZĄDZENIA",
+    "notes": "NOTATEK",
+    "timeline": "HARMONOGRAM",
+    "updated_at": "ZAKTUALIZOWANY",
+    "online": "Online",
+    "offline": "Offline",
+    "tampered": "Modyfikowany",
+    "priority": "Priorytet",
+    "secured": "Zabezpieczony",
+    "configured": "Skonfigurowany"
+  },
+  "devices": {
+    "board_member": "Użytkownik",
+    "smoke_detector": "Czujnik dymu",
+    "water_leak_detector": "Czujnik wycieku wody"
+  }
+}

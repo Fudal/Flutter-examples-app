@@ -1,0 +1,37 @@
+{
+  "common": {
+    "empty_areas": "No areas to display"
+  },
+  "area": {
+    "title": "Common area",
+    "contact": "CONTACT",
+    "room": "ROOM",
+    "device": "DEVICE",
+    "notes": "NOTES"
+  },
+  "common_device": {
+    "edit": "EDIT",
+    "delete": "DELETE",
+    "unpair": "UNPAIR",
+    "identify": "IDENTIFY",
+    "ping": "PING",
+    "sensitivity": "SENSITIVITY",
+    "test_siren": "TEST SIREN",
+    "address": "ADDRESS",
+    "device_id": "DEVICE ID",
+    "notes": "NOTES",
+    "timeline": "TIMELINE",
+    "updated_at": "UPDATED AT",
+    "online": "Online",
+    "offline": "Offline",
+    "tampered": "Tampered",
+    "priority": "Priority",
+    "secured": "Secured",
+    "configured": "Configured"
+  },
+  "devices": {
+    "board_member": "Board member",
+    "smoke_detector": "Smoke detector",
+    "water_leak_detector": "Water leak detector"
+  }
+}

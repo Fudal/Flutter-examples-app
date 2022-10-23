@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/shared_preferences_android/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac1/Desktop/Flutter examples/fh_home_coding/build/shared_preferences_android/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/mac1/.gradle/caches/transforms-2/files-2.1/9c50a4087f66b33d7d099458cec86cd6/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
